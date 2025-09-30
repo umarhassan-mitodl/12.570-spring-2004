@@ -5,6 +5,8 @@ description: Student Karin Louzada's presentation of a review of the reading ass
 file: /courses/12-570-structure-and-dynamics-of-the-cmb-region-spring-2004/319ce5fca713da18e2ebd098fafb090a_lec6_1.pdf
 file_size: 208168
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

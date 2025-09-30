@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains bibliographic citations of a selection of the readings
   for this course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
