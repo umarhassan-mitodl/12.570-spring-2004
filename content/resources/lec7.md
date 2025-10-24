@@ -5,8 +5,6 @@ description: Student Maureen Long's presentation of a review of the reading assi
 file: /courses/12-570-structure-and-dynamics-of-the-cmb-region-spring-2004/a6764b359266dd4e23745453b5a242e1_lec7.pdf
 file_size: 476617
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

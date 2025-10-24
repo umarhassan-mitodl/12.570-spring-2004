@@ -5,8 +5,6 @@ description: 'Review of reading assignment "Earth?s Core-Mantle Boundary: Result
 file: /courses/12-570-structure-and-dynamics-of-the-cmb-region-spring-2004/26ac615da2aae7fc7b68d086928f42af_lec3_2.pdf
 file_size: 649867
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

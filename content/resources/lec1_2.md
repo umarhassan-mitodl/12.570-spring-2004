@@ -6,8 +6,6 @@ description: Lecture slides on Pressure and Temperature at CMB, Materials at CMB
 file: /courses/12-570-structure-and-dynamics-of-the-cmb-region-spring-2004/d757b5f0f6675d5d7f6c962781dc3cb8_lec1_2.pdf
 file_size: 1430381
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

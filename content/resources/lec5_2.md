@@ -4,8 +4,6 @@ description: Review of a reading assignment by Guangping Xu.
 file: /courses/12-570-structure-and-dynamics-of-the-cmb-region-spring-2004/b8d93807c3eb3cc5d6fd90f345ddc1b8_lec5_2.pdf
 file_size: 200522
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

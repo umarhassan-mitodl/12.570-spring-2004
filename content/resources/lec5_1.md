@@ -5,8 +5,6 @@ description: A review of reading assignment "Seismic Evidence for Partial Melt a
 file: /courses/12-570-structure-and-dynamics-of-the-cmb-region-spring-2004/23cbfda760db80925eed4b0995e76764_lec5_1.pdf
 file_size: 264504
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
